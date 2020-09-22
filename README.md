@@ -1,6 +1,6 @@
 # Figma Login Screen Design
 
-Login screen design.
+Login screen design with Figma.
 
 <img src="Login - 2.png" width=200>
 
